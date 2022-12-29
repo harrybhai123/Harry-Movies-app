@@ -9,16 +9,16 @@
 
 <br>
 <h2>Home</h2>
-<img src="pic.png" />
+<a href="https://harrymoviesapp.netlify.app/"> <img src="pic.png" /></a>
 <br>
 <br>
 <h2>Popular</h2>
-<img src="pic1.png" />
+<a href="https://harrymoviesapp.netlify.app/"> <img src="pic1.png" /></a>
 <br>
 <br>
 <h2>Top Rated</h2>
-<img src="pic2.png" />
+<a href="https://harrymoviesapp.netlify.app/"> <img src="pic2.png" /></a>
 <br>
 <br>
 <h2>Upcoming </h2>
-<img src="pic3.png" />
+<a href="https://harrymoviesapp.netlify.app/">  <img src="pic3.png" /></a>
