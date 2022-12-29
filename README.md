@@ -13,12 +13,12 @@
 <br>
 <br>
 <h2>Popular</h2>
-<a href="https://harrymoviesapp.netlify.app/"> <img src="pic1.png" /></a>
+<a href="https://harrymoviesapp.netlify.app/movies/popular"> <img src="pic1.png" /></a>
 <br>
 <br>
 <h2>Top Rated</h2>
-<a href="https://harrymoviesapp.netlify.app/"> <img src="pic2.png" /></a>
+<a href="https://harrymoviesapp.netlify.app/movies/top_rated"> <img src="pic2.png" /></a>
 <br>
 <br>
 <h2>Upcoming </h2>
-<a href="https://harrymoviesapp.netlify.app/">  <img src="pic3.png" /></a>
+<a href="https://harrymoviesapp.netlify.app/movies/upcoming">  <img src="pic3.png" /></a>
