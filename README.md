@@ -1,7 +1,7 @@
 # Harry-Movies-App
 <br>
 <br>
-<a href="https://harrymoviesapp.netlify.app/">Click Here To See Website 👇</a>
+<a href="https://harrymoviesapp.netlify.app/">Click Here To See Website 👈</a>
 <br>
 <br>
 
