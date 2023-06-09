@@ -43,7 +43,7 @@ This Movies App is a React-based web application that allows users to explore po
 
 
 ## Contributing
-- Contributions to the Movies App are welcome! If you have any ideas for improvements or bug fixes, please submit a pull request. Additionally, feel free to open issues for any feature requests or problems encountered.
+   Contributions to the Movies App are welcome! If you have any ideas for improvements or bug fixes, please submit a pull request. Additionally, feel free to open issues for any feature requests or problems encountered.
 
 
 <br>
