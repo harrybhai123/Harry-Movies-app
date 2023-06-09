@@ -1,9 +1,5 @@
 # Harry Movies App
-<br>
-<br>
-<a href="https://harrymoviesapp.netlify.app/">See Website 👈</a>
-<br>
-<br>
+
 
 <h1>Screenshot 📸</h1>
 
@@ -22,3 +18,10 @@
 <br>
 <h2>Upcoming </h2>
 <a href="https://harrymoviesapp.netlify.app">  <img src="pic3.png" /></a>
+
+
+<br>
+<br>
+<a href="https://harrymoviesapp.netlify.app/">See Website 👈</a>
+<br>
+<br>
