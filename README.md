@@ -22,7 +22,7 @@ This Movies App is a React-based web application that allows users to explore po
 - CSS: Cascading Style Sheets were used to design and style the application's components, ensuring an aesthetically pleasing user interface.
 
 - API Integration: The app integrates with an external API (e.g., The Movie Database - TMDb) to fetch movie data and display it within the application.
-- 
+
 
 # Screenshot 📸
 <br>
