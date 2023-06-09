@@ -1,5 +1,4 @@
 # Harry Movies App
-# Movies App
 
 This Movies App is a React-based web application that allows users to explore popular, top-rated, and upcoming movies. It also features a beautiful slider on the home page and provides detailed information about each movie.
 
