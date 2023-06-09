@@ -45,6 +45,13 @@ This Movies App is a React-based web application that allows users to explore po
 ## Contributing
    Contributions to the Movies App are welcome! If you have any ideas for improvements or bug fixes, please submit a pull request. Additionally, feel free to open issues for any feature requests or problems encountered.
 
+## Acknowledgements
+ The Movies App utilizes the API provided by The Movie Database (TMDb) to fetch movie data. Special thanks to TMDb for providing the necessary resources to develop this application.
+ 
+## Contact
+For any inquiries or questions, please contact.
+
+Happy movie browsing! 🎬
 
 <br>
 <a href="https://harrymoviesapp.netlify.app/">See Website 👈</a>
