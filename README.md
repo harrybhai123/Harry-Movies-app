@@ -25,7 +25,6 @@ This Movies App is a React-based web application that allows users to explore po
 - 
 
 # Screenshot 📸
-
 <br>
 <h2>Home</h2>
 <a href="https://harrymoviesapp.netlify.app/"> <img src="pic.png" /></a>
